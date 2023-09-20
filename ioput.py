@@ -1,4 +1,6 @@
-'''Ignore user Invalid ENTRy'''
+'''Ignore user Invalid ENTRY
+Line added by localy in clone'''
+
 import requests
 
 
