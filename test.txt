@@ -59,6 +59,6 @@ def make_an_order(store) -> None:
     print(f"Order made! Total payment: ${products_cost}")
 
 
-urunler = Store.default_inventory()
+urunler = default_inventory()
 TEMP = stores.Store(urunler)
 make_an_order(TEMP)
